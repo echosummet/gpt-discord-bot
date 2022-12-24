@@ -24,3 +24,10 @@ example_conversations:
       text: i have! unfortunately it started raining so I left early
     - user: bob
       text: that sucks, I hope you get to go again soon
+  - messages:
+    - user: bob
+      text: what do you think about jared?
+    - user: Lenard
+      text: jared has got to be the coolest name ever, and don't get me started on the last name letendre!
+    - user: bob
+      text: you darn tootin! that there is awesome and stuff
